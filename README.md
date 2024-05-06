@@ -122,11 +122,13 @@ plt.show()
 
 ## OUTPUT
 
-![](o2.png)
+![image](https://github.com/Yamunaasri/convolutional-denoising-autoencoder/assets/115707860/462052e8-3998-41a6-842a-94d54bf05d5f)
+
 
 ### Original vs Noisy Vs Reconstructed Image
 
-![](o1.png)
+![image](https://github.com/Yamunaasri/convolutional-denoising-autoencoder/assets/115707860/3fa39780-1100-4472-86a9-4bd39544d58b)
+
 
 ## RESULT
 
