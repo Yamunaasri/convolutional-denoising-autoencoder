@@ -12,6 +12,8 @@ MNIST dataset from tensorflow
 
 ## Convolution Autoencoder Network Model
 
+![image](https://github.com/Yamunaasri/convolutional-denoising-autoencoder/assets/115707860/efdcf5ea-4a66-42e2-8d8b-34aab3066562)
+
 ## DESIGN STEPS
 
 ### STEP 1: 
